@@ -1,0 +1,8 @@
+streamlit==1.44.1
+matplotlib
+seaborn
+URLExtract
+wordcloud
+pandas
+streamlit-lottie
+requests
