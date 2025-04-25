@@ -7,3 +7,4 @@ emoji
 wordcloud
 textblob
 urlextract
+streamlit_lottie
